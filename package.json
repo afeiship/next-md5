@@ -39,5 +39,9 @@
   },
   "dependencies": {
     "blueimp-md5": "^2.18.0"
-  }
+  },
+  "keywords": [
+    "next",
+    "md5"
+  ]
 }
